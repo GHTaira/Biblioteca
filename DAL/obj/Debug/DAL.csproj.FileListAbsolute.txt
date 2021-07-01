@@ -1,0 +1,7 @@
+C:\C#\Camadas_Biblioteca\DAL\bin\Debug\DAL.dll.config
+C:\C#\Camadas_Biblioteca\DAL\bin\Debug\DAL.dll
+C:\C#\Camadas_Biblioteca\DAL\bin\Debug\DAL.pdb
+C:\C#\Camadas_Biblioteca\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\C#\Camadas_Biblioteca\DAL\obj\Debug\DAL.dll
+C:\C#\Camadas_Biblioteca\DAL\obj\Debug\DAL.pdb
+C:\C#\Camadas_Biblioteca\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
